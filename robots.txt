@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-# No crawl-delay
-Sitemap: https://irina.kalderon.music/sitemap.xml 
+Sitemap: https://irina.kalderon.music/sitemap.xml
